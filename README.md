@@ -1,1 +1,2 @@
 # IGDMR_academic
+This is a collection of bioinformatics analysis code from a academic paper. It includes the original code for several figures and analyses, as well as some intermediate processing results.
